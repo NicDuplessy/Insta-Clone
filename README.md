@@ -1,4 +1,2 @@
-# Insta-Clone
-Instagram Clone
-
-Instagram Clone using React and Firebase
+#Insta Clone
+Instagram Clone using React frontend and Firebase backend
